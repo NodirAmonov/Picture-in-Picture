@@ -9,4 +9,4 @@ Picture in Picture mode is enabled by clicking on the second button.\
 Responsive on large and small screens with the help of the CSS media queries.\
 Usage
 
-You can this project [View Live](picture-inpicture.netlify.app)
+You can this project [View Live](https://picture-inpicture.netlify.app)
